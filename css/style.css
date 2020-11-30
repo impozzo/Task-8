@@ -1,0 +1,11 @@
+
+body{
+    font-size: 18px;
+    background-color: darkslategray;
+    color: white;
+}
+
+
+.hide{
+    visibility: hidden;
+}
